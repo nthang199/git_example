@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 file1
 file2
 file 3
 file 4
 ẽ13
+=======
+pull request
+>>>>>>> 773f0e6b862eefd124acc14f5d5f38d1e926d633
